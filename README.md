@@ -4,6 +4,6 @@ FR → Ce programme permet d'enregistrer toute les frappe au clavier
 
 EN → This program records all keystrokes.
 
-# Intall
+# Install
 
 `pip install pynput`
